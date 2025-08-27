@@ -9,7 +9,7 @@ It transforms raw ER data into **actionable insights** using advanced Excel feat
 
 ## 📷 Dashboard Preview  
 
-<img src="Hospital_ER_Dashboard.png" width="70%">
+<img src="Hospital_ER _Dashboard.PNG" width="70%">
   
 
 ---
